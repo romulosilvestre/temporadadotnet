@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\bin\Debug\net8.0\AloMundo.exe
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\bin\Debug\net8.0\AloMundo.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\bin\Debug\net8.0\AloMundo.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\bin\Debug\net8.0\AloMundo.dll
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\bin\Debug\net8.0\AloMundo.pdb
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\obj\Debug\net8.0\AloMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\obj\Debug\net8.0\AloMundo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\obj\Debug\net8.0\AloMundo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\obj\Debug\net8.0\AloMundo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\obj\Debug\net8.0\AloMundo.dll
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\obj\Debug\net8.0\refint\AloMundo.dll
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\obj\Debug\net8.0\AloMundo.pdb
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\obj\Debug\net8.0\AloMundo.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\AloMundo\obj\Debug\net8.0\ref\AloMundo.dll

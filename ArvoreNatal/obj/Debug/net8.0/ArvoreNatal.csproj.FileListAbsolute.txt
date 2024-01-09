@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\bin\Debug\net8.0\ArvoreNatal.exe
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\bin\Debug\net8.0\ArvoreNatal.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\bin\Debug\net8.0\ArvoreNatal.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\bin\Debug\net8.0\ArvoreNatal.dll
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\bin\Debug\net8.0\ArvoreNatal.pdb
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\obj\Debug\net8.0\ArvoreNatal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\obj\Debug\net8.0\ArvoreNatal.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\obj\Debug\net8.0\ArvoreNatal.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\obj\Debug\net8.0\ArvoreNatal.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\obj\Debug\net8.0\ArvoreNatal.dll
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\obj\Debug\net8.0\refint\ArvoreNatal.dll
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\obj\Debug\net8.0\ArvoreNatal.pdb
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\obj\Debug\net8.0\ArvoreNatal.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\TemporadaDotNet\ArvoreNatal\obj\Debug\net8.0\ref\ArvoreNatal.dll
